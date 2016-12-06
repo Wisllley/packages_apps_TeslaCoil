@@ -68,7 +68,7 @@
     <string name="volume_keys_control_media_stream_summary">Forçar teclas de volume para controlar fluxo de mídia</string>
 
     <!-- Barra de status | Relógio -->
-    <string name="status_bar_clock_title">Configurações do relógio</string>
+    <string name="status_bar_clock_title">Configuração do relógio</string>
     <string name="status_bar_clock_style_title">Estilo do relógio</string>
     <string name="status_bar_clock_style_right">Direita</string>
     <string name="status_bar_clock_style_left">Esquerda</string>
@@ -119,7 +119,7 @@
 
     <!-- Tráfego de rede -->
     <string name="network_traffic_title">Tráfego de rede</string>
-    <string name="show_network_traffic_state">monitor de tráfego barra de status</string>
+    <string name="show_network_traffic_state">Monitor de tráfego barra de status</string>
     <string name="show_network_traffic_unit">Unidade de exibição</string>
     <string name="show_network_traffic_frequency">Intervalo de atualização</string>
     <string name="show_network_traffic_disable">Desativado</string>
@@ -136,7 +136,7 @@
 
     <!-- Dados de telha avançada -->
     <string name="qs_advanced_data_title"> Dados de telha avançada</string>
-    <string name="qs_advanced_data_summary">Enable one tap action to enable or disable data</string>
+    <string name="qs_advanced_data_summary">Ativar uma ação de toque para ativar ou desativar dados</string>
 
     <!-- Alternância de Wifi -->
     <string name="qs_wifi_easy_toggle_title">Alternância fácil de WIFI</string>
@@ -164,7 +164,7 @@
     <string name="hardware_keys_action_search">Assistente de pesquisa</string>
     <string name="hardware_keys_action_voice_search">Pesquisa por voz</string>
     <string name="hardware_keys_action_in_app_search">Procurar no aplicativo</string>
-    <string name="hardware_keys_action_launch_camera">Lançamento da câmera</string>
+    <string name="hardware_keys_action_launch_camera">Iniciar a câmera</string>
     <string name="hardware_keys_action_sleep">Virar tela para desligar</string>
 
     <!-- Contador de notificações na barra de status -->
@@ -202,11 +202,11 @@
     <string name="battery_title">Bateria</string>
     <string name="statusbar_battery_summary">Definir estilo de exibição da bateria na barra de status</string>
     <string name="battery_style_title">Estilo</string>
-    <string name="battery_percent_title">Mostrar porcentagemt</string>
+    <string name="battery_percent_title">Mostrar porcentagem</string>
     <string name="battery_percent_none">Nunca</string>
     <string name="battery_percent_always">Sempre</string>
     <string name="battery_percent_expanded">Expandido</string>
-    <string name="statusbar_percent_inside_title">Percent overlay</string>
+    <string name="statusbar_percent_inside_title">Sobreposição da porcentagem</string>
     <string name="statusbar_percent_inside_summary">Mostrar porcentagem em cima da imagem da bateria</string>
     <string name="statusbar_charging_image_title">Indicador de carregamento</string>
     <string name="statusbar_category_charging_title">Carregando</string>
@@ -218,7 +218,7 @@
 
     <!-- Barra de navegação -->
     <string name="navbar_size">Tamanho da barra</string>
-    <string name="navbar_mode">Modo de navegaçãi</string>
+    <string name="navbar_mode">Modo de navegação</string>
     <string name="navbar_visibility">Ativar barra de navegação</string>
     <string name="navigationbar_settings_title">Barra de navegação</string>
     <string name="navigationbar_settings_summary">Personalizar o estilo de navegação e de comportamento</string>
@@ -402,7 +402,7 @@
 
     <!-- Animações do menu de energia -->
     <string name="power_menu_animation_title">Animações do menu de energia</string>
-    <string name="power_menu_animation_summary">Change the enter/exit animation of the power menu</string>
+    <string name="power_menu_animation_summary">Alterar a animação de entrada / saída do menu de energia</string>
     <string name="power_menu_animation_dialog_title">Selecionar a animação do menu de energia</string>
     <string name="power_menu_animation_aosp">AOSP (padrão)</string>
     <string name="power_menu_animation_bottom">Inferior</string>
